@@ -1,0 +1,10 @@
+{
+	"name": "cst",
+	"authors": [
+		"Jonathan Levi"
+	],
+	"targetType": "library",
+	"description": "A simple template function to replace `cast`.",
+	"copyright": "Public Domain",
+	"license": "Public Domain"
+}
